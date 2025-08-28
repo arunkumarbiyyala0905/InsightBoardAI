@@ -1,6 +1,7 @@
 import React from 'react';
 import { ChartItem } from './chartItem';
 
+
 // --- Sidebar Component ---
 // This component contains the draggable chart items.
 export const Sidebar = ({ chartItems }) => {
